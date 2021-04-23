@@ -4,9 +4,7 @@ name: Subham Kumar Panda
 
 SF_ID: 265109
 
-My Hackerrank Profile link : Subhamkhd
+My Hackerrank Profile link : Subham Kumar Panda
 
-Folder Structure
 
-codes: This folder contains all the practice codes commited on daily basis.
 
